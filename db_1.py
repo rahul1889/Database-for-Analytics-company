@@ -23,8 +23,8 @@ from mysql.connector import Error
 try:
     connection = mysql.connector.connect(
             host = "127.0.0.1",
-            user = "rahuldb",
-            password = "rahul@1889",
+            user = "your username",
+            password = "your password here",
             database = "analytics_info",
             auth_plugin='mysql_native_password',
             autocommit=True
