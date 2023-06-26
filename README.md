@@ -16,11 +16,10 @@ This project aims to create a comprehensive database for an analytics company fr
    
         Project Structure
   	
-•	DataModel.pdf: This file contains the conceptual data model for the analytics company database, showcasing the entities, attributes, and relationships.
-•	Schema.sql: The SQL script file that includes the table creation statements for each entity in the MySQL database.
-•	DataInsertion.sql: The SQL script file containing the insert statements to populate the tables with dummy data.
-•	DataCleaning.ipynb: A Jupyter Notebook file demonstrating the process of reading data from SQL files, cleaning and analyzing the data using pandas.
-•	DataInsertion.ipynb: A Jupyter Notebook file illustrating how to insert the processed data back into the MySQL database.
+1.    DataModel.pdf: This file contains the conceptual data model for the analytics company database, showcasing the entities, attributes, and relationships.
+2.	Schema.sql: The SQL script file that includes the table creation statements for each entity in the MySQL database.
+3.	DataInsertion.sql: The SQL script file containing the insert statements to populate the tables with dummy data.
+4.	DataCleaning.ipynb: A Jupyter Notebook file demonstrating the process of reading data from SQL files, cleaning and analyzing the data using pandas.
 
         Getting Started
         
